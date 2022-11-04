@@ -89,7 +89,7 @@ button:hover{
     height: 220px;
     width: 320px;
     position: center;
-    border: 2px solid #ffff;
+    border: 0px;
     transition: 0.5s;
 }
 .logo{
@@ -99,5 +99,5 @@ button:hover{
 }
 
 .content img:hover{
-    border: 0px;
+    border: 2px solid #ffff;
 }
